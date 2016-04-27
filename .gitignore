@@ -1,0 +1,8 @@
+*~
+*.swo
+*.swp
+
+*.html
+
+node_modules
+

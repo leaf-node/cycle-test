@@ -1,0 +1,42 @@
+{
+  "name": "cycle-test",
+  "version": "1.0.0",
+  "description": "Detect cycles in your directed graph",
+  "repository": "gitlab:sudoman/cycle-test",
+  "main": "lib/main.js",
+  "files": [
+      "lib",
+      "test",
+      "README.md",
+      "COPYING"
+  ],
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "keywords": [
+      "graph",
+      "vertex",
+      "node",
+      "point",
+      "edge",
+      "arrow",
+      "children",
+      "detect",
+      "detecter",
+      "detection",
+      "find",
+      "finder",
+      "test",
+      "tester",
+      "boolean",
+      "cycle",
+      "cyclic",
+      "directed",
+      "grey",
+      "gray",
+      "black",
+      "white"
+  ],
+  "author": "Andrew Engelbrecht",
+  "license": "CC0-1.0"
+}
