@@ -13,6 +13,9 @@
   "scripts": {
     "test": "test/test.js"
   },
+  "dependencies": {
+      "assert": "1.x"
+  },
   "keywords": [
       "graph",
       "vertex",
