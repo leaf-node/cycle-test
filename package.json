@@ -1,6 +1,6 @@
 {
   "name": "cycle-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Detect cycles in your directed graph",
   "repository": "gitlab:sudoman/cycle-test",
   "main": "lib/main.js",
